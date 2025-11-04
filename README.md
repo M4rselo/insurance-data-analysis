@@ -22,14 +22,3 @@ The goal was to understand how lifestyle and personal factors affect medical cos
 
 ## Summary
 A compact and logical data analysis project focused on exploring patterns in insurance data through pure Python code.
-
----
-
-## 📁 Project Structure
-insurance-data-analysis
-│
-├── insurance.csv # Dataset used in the analysis
-├── us-medical-insurance-costs-analysis.ipynb # Main analysis notebook
-└── README.md # Project description
-
-
